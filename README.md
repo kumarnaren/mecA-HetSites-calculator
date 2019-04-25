@@ -8,3 +8,7 @@ Essential requirements
 4. a bed file with coordinates of mobile genetic elements
 5. Reference fasta file
 
+Please edit the path of the respective files in the mecAndHetsites.py at lines 9, 10, 11, 12 and 82.
+
+Example:
+mecAndHetsites.py <folder> <outputName>
