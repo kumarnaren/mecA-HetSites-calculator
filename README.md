@@ -1,5 +1,5 @@
 # mecA-HetSites-calculator
-calculates mecA coverage, coverage depth and reference genome coverage and number heterozygous sites
+calculates mecA coverage, coverage depth and reference genome coverage and number heterozygous sites for staphylococcus aureus
 
 Essential requirements
 1. python2.7
